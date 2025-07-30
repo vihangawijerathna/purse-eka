@@ -69,7 +69,7 @@ _Screenshots will be added soon_
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/purse-eka.git
+   git clone https://github.com/vihangawijerathna/purse-eka.git
    cd purse-eka
    ```
 
